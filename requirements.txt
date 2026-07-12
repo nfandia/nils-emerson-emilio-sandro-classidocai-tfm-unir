@@ -1,0 +1,28 @@
+
+___________________________________________
+
+No Se llama:
+Pastor: Josué Samamé
+76 mil
+
+Comisión:  5 mil 
+Derechos:  1 mil
+Arbitrios: 
+
+¿Es necesario ir a Lima?
+___________________________________________
+
+Polladas 
+___________________________________________
+
+
+
+
+
+streamlit
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+openai
+openpyxl
